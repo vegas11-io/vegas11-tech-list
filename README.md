@@ -534,3 +534,7 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
   
 - [Startup Sokoto](https://twitter.com/Startupsokoto)
   Sama Road, Mabera Mujaya 840103, Sokoto
+
+## Other Global Hubs
+
+- [VEGAS11 India](https://vegas11.io) – A hub for gaming, sports, and SEO content in India.
